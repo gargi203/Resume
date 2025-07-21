@@ -3,7 +3,7 @@
 Welcome to my resume repository! This project contains the latest version of my professional resume, built and maintained to showcase my education, experience, and skills in the field of Computer Science and Engineering.
 
 📄 Resume Formats
-- resume.pdf – Final, polished version (best for sharing)
+- resume.pdf – Final, polished version 
 - README.md – You're here!
 
   
